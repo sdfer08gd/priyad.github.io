@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
-main_content.inner  {
+section#main_content.inner {
   max-width: 75%;
 }
+
+/*main_content.inner  {
+# max-width: 75%;
+}/*
+
