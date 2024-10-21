@@ -106,7 +106,7 @@ Heavy marijuana use is a risk factor for CV disease in HIV-infected men ages 40â
 
 ## Published analysis and visualizations from early phase clinical studies
 
-
+Working with subject matter experts and stakeholders, the following trends in early phase clinical studies were identified:
 
 <a href="https://seekingalpha.com/article/4387534-evelo-biosciences-clinical-data-coming-soon" style="font-size: 20px; text-decoration: none">Analysis of Clinical Data</a>
 
@@ -127,3 +127,9 @@ Heavy marijuana use is a risk factor for CV disease in HIV-infected men ages 40â
 
 <td><img src='assets/EDP1815_biomarker.png' align='center' style='width: 580px;'></td>
 
+<br/><br/>
+
+<a href="https://finance.yahoo.com/news/evelo-biosciences-announces-highly-significant-120000093.html" style="font-size: 20px; text-decoration: none">Trends were later confirmed in a larger phase II study:</a>
+
+
+<td><img src='assets/Ph2studybiomarker.png' align='center' style='width: 580px;'></td>
